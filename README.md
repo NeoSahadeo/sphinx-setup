@@ -40,11 +40,11 @@ Default ip: `localhost:8000/build`
 
 ## Deployment
 
-The deployment file is in the `.github/workflow` folder.
+The deployment file are in the `.github/workflow` folder.
 
 **NOTE**
 
-Make sure that pages is set to deploy from a workflow on Githubs settings.
+Make sure that pages are set to deploy from a workflow on Githubs settings.
 Deployment will fail otherwise!
 
 ## Contributing
