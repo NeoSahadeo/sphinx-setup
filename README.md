@@ -1,4 +1,4 @@
-# Sphinx Setup Tempalte
+# Sphinx Setup Template
 
 A few script files that auto-build and preview sphinx sites.
 
